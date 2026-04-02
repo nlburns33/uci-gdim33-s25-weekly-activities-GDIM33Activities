@@ -1,17 +1,12 @@
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
-Put your inspo board link here. Do NOT leave a bare URL. REMOVE ALL INSTRUCTIONAL TEXT.
+[Inspiration Board](https://docs.google.com/drawings/d/1tsGEH4YWukCZJdz_tZdXfr5G4T_H1BApO8bkQef3LJw/edit?usp=sharing)
 
-1. Put your activity 1 answers here.
-2. Please keep the proper list format.
+1. I'm interested in shooter mechanics and more serious games as well as vehicles and military aesthetics.
+2. Jayden and I both enjoy shooter games and turn-based games. We also both enjoy competetive games.
+3. There is not a lot of overlap in terms of genre apart from shooters, but we both like games that are fast-paced and require motor skills. 
 
 
 ### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
 
-
-## W2
-Write your W2 Devlog here.
-
-Continue adding additional headers below this one for future weeks and future activities.
