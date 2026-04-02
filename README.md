@@ -9,4 +9,5 @@
 
 
 ### Activity 2
+<img width="960" height="720" alt="33 Breakdown" src="https://github.com/user-attachments/assets/dcbd86d6-35ba-4e94-9176-394a78002cca" />
 
