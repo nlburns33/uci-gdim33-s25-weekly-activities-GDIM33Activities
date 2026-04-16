@@ -22,4 +22,4 @@
 
 3. The Set Cursor Lock State is relevant to my Vertical Slice because I don't want the cursor to be present while the player is looking around.
 
-4. The concept of a "game state" is proably relevant as the game as a whole does not switch between specific states, but state machines in general are useful, especially for the enemy who will have multiple states.
+4. The concept of a "game state" is proably not relevant as the game as a whole does not switch between specific states, but state machines in general are useful, especially for the enemy who will have multiple states.
