@@ -11,4 +11,6 @@
 ### Activity 2
 ![33 Breakdown](https://github.com/user-attachments/assets/b8c45c94-32dd-4919-bb8b-3649a27b077b)
 
-
+## W2
+### Activity 1
+<img width="1661" height="1093" alt="33 Breakdown Updated" src="https://github.com/user-attachments/assets/f4a33876-1d1d-41e9-99f5-80743e56dfa0" />
