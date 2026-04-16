@@ -14,3 +14,12 @@
 ## W2
 ### Activity 1
 <img width="1661" height="1093" alt="33 Breakdown Updated" src="https://github.com/user-attachments/assets/f4a33876-1d1d-41e9-99f5-80743e56dfa0" />
+
+### Activity 2
+1. It is advantageous to save the event name as a Scene variable because it makes it easy and reliable to input the name correctly. It also means that you can change the event name in the inspector without having to individually change each event. 
+
+2. The Debug.Log() node in the transition between the Dialogue and Event states helped me to check if the transition was actually running, which actually helped because it wasn't working at first.
+
+3. The Set Cursor Lock State is relevant to my Vertical Slice because I don't want the cursor to be present while the player is looking around.
+
+4. The concept of a "game state" is proably relevant as the game as a whole does not switch between specific states, but state machines in general are useful, especially for the enemy who will have multiple states.
