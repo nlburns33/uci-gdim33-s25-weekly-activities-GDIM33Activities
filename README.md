@@ -42,3 +42,6 @@ Feedback: Looking around is jittery, you can't die. Monster's behavior makes sen
 
 3. The purpose of the regenerate nodes button is to update the available nodes to include any nodes that may have been created by scripts or other methods.
 
+<img width="1708" height="931" alt="Screenshot 2026-04-22 193521" src="https://github.com/user-attachments/assets/b1ba5ca3-ee5b-483c-afe8-cd8335f5357e" />
+
+
