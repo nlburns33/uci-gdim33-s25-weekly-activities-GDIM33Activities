@@ -12,6 +12,9 @@ namespace W4Activity
         [Tooltip("The line of dialogue the NPC says in this node.")]
         public string Line;
 
+        [Tooltip("The line of dialogue the NPC says in this node.")]
+        public ParticleSystem particleSystem;
+
         [Tooltip("[Optional] The dialogue options for the player's response, and what node each response leads to.")]
         public List<PlayerReplyW4> ReplyOptions;
     }

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d87814806be98455aa06d85e22ad29d6, type: 3}
+  m_Name: DialogueLineW4
+  m_EditorClassIdentifier: 
+  Line: Hi
+  particleSystem: {fileID: 0}
+  ReplyOptions:
+  - line: You suck
+    nextNode: {fileID: 11400000, guid: 28921676f7c4ad54f9018fb9478309e8, type: 2}
+  - line: You look puntable
+    nextNode: {fileID: 11400000, guid: 1627ec4dbb246bb4eb3dd895aa447c72, type: 2}
+  - line: Bye
+    nextNode: {fileID: 11400000, guid: 570fc578741d5544b8085f5ea8ac193d, type: 2}
+  - line: Hello
+    nextNode: {fileID: 11400000, guid: 570fc578741d5544b8085f5ea8ac193d, type: 2}
