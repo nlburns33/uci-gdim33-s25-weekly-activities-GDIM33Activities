@@ -27,7 +27,7 @@
 ### W3
 ### Activity 1
 
-Currently, the monster and its states are present, with nearly all of the transitions working. The monster can attack and damage the player. The player can move, jump, and shoot and stun the monster.
+Currently, the monster and its states are present, with nearly all of the transitions working. It wanders, chases the player, and can attack and damage the player. The player can move, jump, and shoot and stun the monster.
 
 Playtesting goal: Does the monster's behavior make sense and feel reasonable?
 
