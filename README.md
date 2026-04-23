@@ -24,7 +24,7 @@
 
 4. The concept of a "game state" is proably not relevant as the game as a whole does not switch between specific states, but state machines in general are useful, especially for the enemy who will have multiple states.
 
-### W3
+## W3
 ### Activity 1
 
 Currently, the monster and its states are present, with nearly all of the transitions working. It wanders, chases the player, and can attack and damage the player. The player can move, jump, and shoot and stun the monster.
