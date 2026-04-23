@@ -38,7 +38,7 @@ Feedback: Looking around is jittery, you can't die. Monster's behavior makes sen
 ### Activity 2
 1. A dialogue could definitely add more dialogue without writing any code. New dialogue is added via additional scriptableobjects, which can be edited via the inspector.
 
-2. There is a limit to the number of buttons that can be on screen without adjusting the button layout, but there is no limit to how many chains of options can exist.
+2. There is a limit to the number of buttons, and therefore dialogue choices, that can be on screen without adjusting the button layout, but there is no limit to how many chains of options can exist.
 
 3. The purpose of the regenerate nodes button is to update the available nodes to include any nodes that may have been created by scripts or other methods.
 
