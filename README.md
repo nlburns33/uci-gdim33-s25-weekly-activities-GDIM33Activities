@@ -27,13 +27,13 @@
 ### W3
 ### Activity 1
 
-Currently, the monster and its state are present, with nearly all of the transitions working. The monster can attack and damage the player. The player move and jump and can shoot and stun the monster.
+Currently, the monster and its states are present, with nearly all of the transitions working. The monster can attack and damage the player. The player can move, jump, and shoot and stun the monster.
 
 Playtesting goal: Does the monster's behavior make sense and feel reasonable?
 
 Team Members: Nolan Burns, Brendan Johnston, Jayden Ishibashi
 
-Feedback: Looking around is jittery, you can't die. Monster's behavior makes sense, correctly runs, though the stun is a bit long. The monster can also get stuck in the stun animation. The player can occasionally get stuck in the jumping state if they jump into a wall.
+Playtesting Notes: Looking around is jittery. The player can't die. The monster's behavior makes sense and correctly runs, though the stun is a bit long. The monster can also get stuck in the stun animation. The player can occasionally get stuck in the jumping state if they jump into a wall.
 
 ### Activity 2
 1. A dialogue could definitely add more dialogue without writing any code. New dialogue is added via additional scriptableobjects, which can be edited via the inspector.
