@@ -11,7 +11,7 @@
 ### Activity 2
 ![33 Breakdown](https://github.com/user-attachments/assets/b8c45c94-32dd-4919-bb8b-3649a27b077b)
 
-## W2
+## W3
 ### Activity 1
 <img width="1661" height="1093" alt="33 Breakdown Updated" src="https://github.com/user-attachments/assets/f4a33876-1d1d-41e9-99f5-80743e56dfa0" />
 
@@ -24,7 +24,7 @@
 
 4. The concept of a "game state" is proably not relevant as the game as a whole does not switch between specific states, but state machines in general are useful, especially for the enemy who will have multiple states.
 
-## W3
+## W4
 ### Activity 1
 
 Currently, the monster and its states are present, with nearly all of the transitions working. It wanders, chases the player, and can attack and damage the player. The player can move, jump, and shoot and stun the monster.
