@@ -44,4 +44,22 @@ Playtesting Notes: Looking around is jittery. The player can't die. The monster'
 
 <img width="1708" height="931" alt="Screenshot 2026-04-22 193521" src="https://github.com/user-attachments/assets/b1ba5ca3-ee5b-483c-afe8-cd8335f5357e" />
 
+## W5
+### Activity 1
+Feature: Sanity system
+
+Basic steps:
+1. Create the sanity changing script with debug logs to test if it runs correctly
+2. Have the UI correctly change with the sanity level
+
+Detailed steps:
+1. Create a new sequence in the player graph that runs on update
+2. Make a new variable for sanity and have it lower by a certain amount each second when near the monster or hiding
+3. Make this variable increase when the player is in a light or fully healed
+4. Make a text UI element
+5. Make a new sequence in the UI scripting graph that runs with a custom event. When it runs, set the meter text to the player's sanity variable
+6. Create an image that 'slides' like a bar with the sanity level
+
+### Activity 2
+I implemented the sanity system so that the player's sanity lowers when they are nearby the monster or hiding in a locker. It also updates the UI whenever the sanity level updates. Picking up a medkit restores the player's sanity. 
 
