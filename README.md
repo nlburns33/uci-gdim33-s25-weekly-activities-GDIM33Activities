@@ -65,7 +65,7 @@ I implemented the sanity system so that the player's sanity lowers when they are
 
 ## W6
 ### Activity 1
-1. Sicne the last playtest, I have added ammo boxes, medkits, the hiding and sanity mechanics, created a proper scene, and fixed the jittery camera movement.
+1. Since the last playtest, I have added ammo boxes, medkits, the hiding and sanity mechanics, created a proper scene, and fixed the jittery camera movement.
 2. [Itch Link](https://nlburns33.itch.io/33-vertical-slice-playtest-2)
 3. My playtesting goal is to find any bugs that might exist and whether the monster correctly switches between the different states.
 
