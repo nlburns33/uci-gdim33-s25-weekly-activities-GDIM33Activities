@@ -63,3 +63,21 @@ Detailed steps:
 ### Activity 2
 I implemented the sanity system so that the player's sanity lowers when they are nearby the monster or hiding in a locker. It also updates the UI whenever the sanity level updates. Picking up a medkit restores the player's sanity. 
 
+## W6
+### Activity 1
+1. Sicne the last playtest, I have added ammo boxes, medkits, the hiding and sanity mechanics, created a proper scene, and fixed the jittery camera movement.
+2. [Itch Link](https://nlburns33.itch.io/33-vertical-slice-playtest-2)
+3. My playtesting goal is to find any bugs that might exist and whether the monster correctly switches between the different states.
+
+Playtesting Notes:
+- The monster doesn't rotate before/after attacking
+- The camera clips through the player's legs when jumping
+- The sanity decrease rate is too low when nearby the monster
+- The player doesn't stop regaining sanity once leaving the light
+- State changing works well, but the visual rotation isn't great
+
+### Activity 2
+1. The Multiply setting results in a darker and less satured color because it is multiplying two numbers less than one together, resulting in a lower number. Lower RGB values correlate with a darker and less satured color.
+2. If we multiply alpha values, the result will be more transparent. The number will be lower which correlates with more transparency.
+3. The shader gets the UV data from the vertices on the mesh.
+4. It isn't very interesting, I already knew colors could be manipulated with math so it isn't really new information.
