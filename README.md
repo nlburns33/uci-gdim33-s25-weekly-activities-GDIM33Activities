@@ -81,3 +81,12 @@ Playtesting Notes:
 2. If we multiply alpha values, the result will be more transparent. The number will be lower which correlates with more transparency.
 3. The shader gets the UV data from the vertices on the mesh.
 4. It isn't very interesting, I already knew colors could be manipulated with math so it isn't really new information.
+
+## W7
+1. The vertex color data comes from the vertices on the mesh itself
+2. The color is interpolated between the vertices for each polygon
+3. It relies on the number of vertices in the model, few vertices means it has to interpolate across larger distances and results in less detail. Vertex color is probably useful for quick coloring without having to spend the time to make a texture.
+4. On the back left of the shiba, there is a lighter green patch that doesn't match the surrounding areas
+5. I can imagine testing the UV coordinates to see if they are mapped correctly
+6. The dot product results in a negative number which is the opposite of what it should be
+7. We made it additive to make it so the background would be transparent instead of darker
