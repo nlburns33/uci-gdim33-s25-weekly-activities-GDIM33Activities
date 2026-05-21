@@ -96,7 +96,7 @@ Playtesting Notes:
 - Since milestone 2, I have added visual improvements like ground textures, a building model to replace the grey walls, trees, and a larger terrain. I have also added walking sounds to the monster.
 
 - [Itch Link](https://nlburns33.itch.io/33-week-8-playtest)
-- 
+  
 - Playtesting goal: Does the visual design direction make sense and look good
 
 - Feedback: 
