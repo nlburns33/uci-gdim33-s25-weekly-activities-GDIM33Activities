@@ -90,3 +90,29 @@ Playtesting Notes:
 5. I can imagine testing the UV coordinates to see if they are mapped correctly
 6. The dot product results in a negative number which is the opposite of what it should be
 7. We made it additive to make it so the background would be transparent instead of darker
+
+## W8
+### Activity 1
+- Since milestone 2, I have added visual improvements like ground textures, a building model to replace the grey walls, trees, and a larger terrain. I have also added walking sounds to the monster.
+
+- [Itch Link](https://nlburns33.itch.io/33-week-8-playtest)
+- 
+- Playtesting goal: Does the visual design direction make sense and look good
+
+- Feedback: 
+	- Muzzle flash would be nice
+	- Goal is not clear
+	- Monster can be hard to see if looking away from you 
+	- It isn't clear that the enemy can not die
+	- If you spam space you can jump really high in the very beginning
+	- The player doesn't always ground itself properly
+	- It is possible to get out of the barrier if pushing against a corner and spamming, the border can be jumped over 
+	- There should be more lockers and pickups 
+	- The footstep sounds are good
+
+### Activity 2c
+1. The pass is the FullScreenPassRenderFeature. Before that pass, the effect is not visible.
+2. When the Lerp value is set to .5, it shows partially - it's opacity is low. If it is set to 0, the effect does not show at all. If set to 1, it shows completely.
+3. It blends the two textures - the screen's current image and the effect texture. If set to .1, the new iamge will be 90% the original image and 10% the new texture.
+4. Adding 1 makes the result stay above 0, as negative doesn't have an effect. Dividing by 2 makes the amplitude of the new function the same as normal sin. This makes the result much smoother.
+
