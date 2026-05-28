@@ -121,11 +121,13 @@ Playtesting Notes:
 Game: Subnautica 
 
 Feature 1: Water Color
+
 The effect is likely a full-screen post processing effect, because it applies to everything underwater. 
 The color setting would be altered, making it look different when the player enters various depths or biomes.
 It gets the player's depth to affect the darkness. It also gets the biome type to affect the hue.
 
 Feature 2: Water Transition Effect
+
 The water transition effect is also a full-screen post processing effect.
 It uses a texture that is animated and likely shown via enablind and disabling the rendering effect.
 
