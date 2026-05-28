@@ -116,3 +116,19 @@ Playtesting Notes:
 3. It blends the two textures - the screen's current image and the effect texture. If set to .1, the new iamge will be 90% the original image and 10% the new texture.
 4. Adding 1 makes the result stay above 0, as negative doesn't have an effect. Dividing by 2 makes the amplitude of the new function the same as normal sin. This makes the result much smoother.
 
+## W9
+### Activity 1
+Game: Subnautica 
+
+Feature 1: Water Color
+The effect is likely a full-screen post processing effect, because it applies to everything underwater. 
+The color setting would be altered, making it look different when the player enters various depths or biomes.
+It gets the player's depth to affect the darkness. It also gets the biome type to affect the hue.
+
+Feature 2: Water Transition Effect
+The water transition effect is also a full-screen post processing effect.
+It uses a texture that is animated and likely shown via enablind and disabling the rendering effect.
+
+### Activity 2
+
+I fixed the problem of not knowing how to enable and disable the post processing effect through visual scripting using a float variable within the shader graph. However, I also found a problem where the player will rapidly spn that suddenly appeared.
