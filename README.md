@@ -130,5 +130,6 @@ The water transition effect is also a full-screen post processing effect.
 It uses a texture that is animated and likely shown via enablind and disabling the rendering effect.
 
 ### Activity 2
+<img width="1707" height="760" alt="Screenshot 2026-05-27 202303" src="https://github.com/user-attachments/assets/ec498bc3-38b3-45ff-b7b6-6384c62fe25b" />
 
 I fixed the problem of not knowing how to enable and disable the post processing effect through visual scripting using a float variable within the shader graph. However, I also found a problem where the player will rapidly spn that suddenly appeared.
