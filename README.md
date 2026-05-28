@@ -129,7 +129,7 @@ It gets the player's depth to affect the darkness. It also gets the biome type t
 Feature 2: Water Transition Effect
 
 The water transition effect is also a full-screen post processing effect.
-It uses a texture that is animated and likely shown via enablind and disabling the rendering effect.
+It uses a texture that is animated and likely shown via enabling and disabling the rendering effect when the player collides with the water/air barrier.
 
 ### Activity 2
 Shader Graph:
