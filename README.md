@@ -136,3 +136,27 @@ Shader Graph:
 <img width="1707" height="760" alt="Screenshot 2026-05-27 202303" src="https://github.com/user-attachments/assets/ec498bc3-38b3-45ff-b7b6-6384c62fe25b" />
 
 I fixed the problem of not knowing how to enable and disable the post processing effect through visual scripting using a float variable within the shader graph. However, I also found a problem where the player will rapidly spn that suddenly appeared.
+
+## W10
+### Activity 1
+- Since milestone 2, I have improved many of the environment's colliders so that they make more sense and allow better movement.
+- [Itch Link](https://nlburns33.itch.io/33-week-10-playtest)
+- Playtesting Goal: Find any existing bugs or problems
+- Playtesting notes: 
+	- The invisible wall boundaries are unclear
+	- The monster can be ignored without too much difficulty
+	- The shader graph effect looks good
+
+### Activity 2
+The first primary step would be to identify a core game mechanic or loop and focus on that, slowly adding more mechanics as needed to make it work.
+Then, I would identify the different primary systems that ccould be used to utilize the mechanics and create the overall gameplay experience.
+Next, I would identify variables and components to support the mechanical function.
+These could all be simply noted down and organized in a document.
+Once the primary parts of the game are envisioned, then I could visualize them with a diagram of all the parts and their relationships or a systems diagram with the game loops. 
+That would also reveal many of the connections necessary to integrate the various systems and parts together.
+Planning allows you to better visualize the scope of a project, making it easier to see if it is too large to be tackled realistically. 
+However, if planned poorly (if the plan is too simple), it could also make the project seem easier than it actually is.
+If you have a good plan, then more can be added later on if needed easier than otherwise.
+
+### Activity 3
+I increased the monster detection range further to make it harder to completely avoid it. I also added a sound effect for entering and exiting the lockers.
